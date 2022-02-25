@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Prayer for the Prince and Princess of Orange translated out of French.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55650</idno>
+            <idno type="STC">Wing P3192</idno>
+            <idno type="STC">ESTC R26900</idno>
+            <idno type="EEBO-CITATION">09574494</idno>
+            <idno type="OCLC">ocm 09574494</idno>
+            <idno type="VID">43692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55650)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43692)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1338:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Prayer for the Prince and Princess of Orange translated out of French.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:43692:1"/>
+            <!-- PDF PAGE 55 -->
+            <pb n="1" facs="tcp:43692:1"/>
+            <!-- PDF PAGE 55 -->
+            <head>A PRAYER FOR THE Prince and Princeſs of <hi>ORANGE.</hi>
+            </head>
+            <head type="sub">Tranſlated out of <hi>French.</hi>
+            </head>
+            <p>O God, who haſt commanded us to addreſs our ſelves to thee in the time of our Neceſſity, with promiſe to deliver us thence, and that we ſhould return thee our moſt humble Thankſgivings for the ſame; we preſent our ſelves upon this extraordinary Occaſion before the Throne of thy moſt Sacred Majeſty, to Implore thy Aſſiſtance from on High, in the preſent Conjuncture and Delivery of thy Church. Thou know'ſt, O Lord, the many Evils ſhe has undergone, even to this preſent time, and the Deſigns of the Grandees of the World, to annihilate and exter<g ref="char:EOLhyphen"/>minate her from the face of the Earth. We may ſay to thee as <hi>David</hi> ſaid, Why do the Heathen rage, and why do the Kings and Princes of the Earth conſpire together, againſt the Lord, and againſt his God? Yea, O great God, 'tis againſt thee that they Rebel, ſince they endea<g ref="char:EOLhyphen"/>vour
+<pb n="2" facs="tcp:43692:2"/>
+               <!-- PDF PAGE 56 -->to aboliſh the Truth of thy Word, and to ſet up an Idolatrous Worſhip, which is an Abomination in thy ſight. Behold, O Almighty God, from the higheſt Hea<g ref="char:EOLhyphen"/>vens the Affliction of thy People Deſcend from the high Throne of thy Glory, to overthrow and confound their Counſels and Conſpiracies, which only tend to the Op<g ref="char:EOLhyphen"/>preſſion of thy poor Children, who groan under the heavy burthen of Perſecution; aſſemble together the Kings and Princes who ſerve thee in Purity, to defend thy Cauſe, and make them Victorious over thy Enemies. And thou, moſt Puiſſant God of Arms, ſtrengthen their hands in Battel, and ſurround them with thy ſaving Protection. Particularly we implore this Favour from thee, for his Highneſs the Prince of <hi>Orange.</hi> It is he who has moſt deeply laid to Heart the Outrage that has been done thee, and which they would offer to thy Church. Support his Cauſe, ſince 'tis thy own, and favour him with Victory over all his Enemies. His Enterprize is dangerous: But what may not he do, being ſuſtain'd by thy All Powerful Hand? Command the Sea and the Impetuous vvaves to be ſmooth before him. Reſtrain the contrary Winds within their bounds; and permit not the leaſt Gale to blow, that does not favour his Deſigns. Thou, O Omni<g ref="char:EOLhyphen"/>potent God, who heretofore didſt ſay to <hi>Joſhua</hi> by <hi>Moſes, fortiſie and ſtrengthen thy ſelf,</hi> ſtrengthen and fortifie this Great Prince, this Leader of thy People, this Great <hi>Joſhua,</hi> whom thou haſt given us to be the <hi>Zorebabel</hi> that muſt Re<g ref="char:EOLhyphen"/>eſtabliſh thy <hi>Jeruſalem.</hi> Gird him with Courage and Strength, that he may be undaunted in the midſt of the moſt dangerous Perils, that he may have the Strength of <hi>Saniſon,</hi> the Proſperity of <hi>Gedeon,</hi> and the Victories of <hi>David;</hi> and that laſtly, after the Signal Victories which thou ſhalt give him, he may be a Prince of Peace like <hi>So<g ref="char:EOLhyphen"/>lomon.</hi> Grant him, Lord, theſe Bleſſings always to accom<g ref="char:EOLhyphen"/>pany
+<pb n="3" facs="tcp:43692:2"/>
+               <!-- PDF PAGE 56 -->Him: And may the Eternal hear thee, Great Prince, in the day of thy Diſtreſs, and may the Name of the God of <hi>Jacob</hi> grant thee a happy Repoſe, may he ſend thee Succour from his Holy Place, and defend thee out of <hi>Sion.</hi> Remember, Lord, the Oblations of his Heart, and may he perform thy Will.</p>
+            <p>Lord, thou knoweſt that thou didſt ſend this Great Prince into the World as it were by a Miracle; by the ſame Miracle preſerve him. Thou haſt been his God from his Mother's Womb: thou haſt brought him up between thy knees: thy Guarding hand has defended him from his Enemies. Thou haſt already done great things by his Proweſs. Through his Courage thy People look upon him as the Pillar of thy Church. Deprive him not, O God, in this unhappy Time, of thy Supports, which are his only Conſolation. Remember the labours of his Anoe<g ref="char:EOLhyphen"/>ſtors for the Eſtabliſhment and Maintenance of thy Holy Goſpel. They have upon a thouſand occaſions experien<g ref="char:EOLhyphen"/>ced that thou wert their God. Thou haſt preſerved them in the day of Battel, in Sieges, and in a thouſand dangers. And, Lord, we hope from thy Goodneſs and Mercy that thou wilt alſo protect with equal force this Prince, who has more formidable Enemies to encoun<g ref="char:EOLhyphen"/>ter. Shorten, O Eternal God, ſooner ſhorten our days, than the Life of a Perſon ſo dear to thy Church. Let the Holy Angels encamp round about Him; command them to fight, as heretofore thou didſt in the days of <hi>Sennacherib,</hi> to exterminate all thoſe Idolaters that dare oppoſe his Arms; and grant Him, O God, for his two Fortreſſes, thy Grace and thy Truth, to the end that this Prince, accompliſhing his juſt Deſigns, thy Church may erect her Banners, and ſing the holy Hymn, God hath ſhewn himſelf, and his Enemies are confounded. Halleluiah, Safety and Strength belong to our Eternal
+<pb n="4" facs="tcp:43692:3"/>
+               <!-- PDF PAGE 57 -->God. O Eternal God, ſupport on this occaſion the heart of her Royal Highneſs, his Illuſtrious Conſort; Confirm her againſt all fear that may poſſeſs her Mind; and ſay to her Soul, that thou wilt be the Deliverance of her Husband, and that no Miſchief ſhall approact his Pavilli<g ref="char:EOLhyphen"/>on. Give ear, O Holy Father, to the fervent Prayers which ſhe ſends up to thy Throne, and ſend her thy Holy Spirit to comfort her in this her Tryal, and let nothing but the Meſſengers of good<g ref="char:punc">▪</g> News approach her Sacred Perſon. Doubtleſs, Lord, thou wilt be Merciful to her, ſince thou haſt fill'd het Heart with the fear of thy Great Name. Her truſt is in thee, let her not be confounded. Preſerve her Health, preſerve her Life, that ſhe being advanc'd to that High Dignity, which we ſo ardently deſire, may become a Nurſe to thy Church; the <hi>Heſter</hi> of this Age, and the Bleſſed <hi>Mary,</hi> that ſhall give a new Birth to the Saviour of the World, in ſupporting thy Church, and diffuſing thy Goſpel to all the ends of the Earth. True 'tis, O God, that we might hope for all theſe. Favours at thy Hands, but that we are ſuch vile Offendors, and therefore, ſenſible of our Guilt, we are in continual Fear. Confirm us, O Eternal Father, through thy Mercy, and waſh away our Sins in the Blood of our Redeemer; in whoſe precious Name, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43692:3"/>
+            <!-- PDF PAGE 57 -->
+         </div>
+      </body>
+   </text>
+</TEI>
